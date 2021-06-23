@@ -1,7 +1,7 @@
 {
-  "name": "aeproject-project",
+  "name": "zaek",
   "version": "1.0.0",
-  "description": "This is the default package.json generated for your project",
+  "description": "Zero Knowledge on Aeternity Sophia",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/**/*.js --timeout 0 --exit",
